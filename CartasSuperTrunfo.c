@@ -12,6 +12,8 @@ struct Carta {
 int main() {
     printf("Desafio Cadastro das Cartas \n");
     printf("SUPER TRUNFO \n");
+    printf("Novo commit\n");
+    
 
 
 
